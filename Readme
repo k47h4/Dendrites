@@ -1,0 +1,17 @@
+System Requirements: >=Python 3.6, numpy, matplotlib, scipy, brian2, brian2tools, pypet
+
+- install brian2: https://brian2.readthedocs.io/en/stable/introduction/install.html
+- install brian2tools https://brian2.readthedocs.io/en/stable/introduction/install.html
+- install pypet https://pypet.readthedocs.io/en/latest/
+
+Figure 1:
+run paper_model.py 
+This script runs the balanced net and plots panels from Figure 1. This script can be easily run as it just runs the network once.
+
+Figure 2-4:
+These figures have been produced by running main_gating.py with different parameter configurations. Note: the simulations require a lot of time and disk space and runs many simulations in parallel.
+
+Once main_gating has been run with the different gates and stored the data, 
+plotFigure2.py plots the panels from Figure 2,
+plotFigure3.py plots the panels from Figure 3,
+and plotFigure4.py plots the panels from Figure 4. 
