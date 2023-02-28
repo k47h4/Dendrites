@@ -18,4 +18,4 @@ and plotFigure4.py plots the panels from Figure 4.
 
 Figure S10:
 memory_gating.py runs the network from Figure S10.
-plotFigure5.py plots the panels from Figure S10.
+plotFigureS10.py plots the panels from Figure S10.
