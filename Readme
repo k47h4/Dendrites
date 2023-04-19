@@ -15,3 +15,7 @@ Once main_gating has been run with the different gates and stored the data,
 plotFigure2.py plots the panels from Figure 2,
 plotFigure3.py plots the panels from Figure 3,
 and plotFigure4.py plots the panels from Figure 4. 
+
+Figure S10:
+memory_gating.py runs the network from Figure S10.
+plotFigureS10.py plots the panels from Figure S10.
